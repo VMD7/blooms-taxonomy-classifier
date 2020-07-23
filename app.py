@@ -3,7 +3,7 @@ import joblib
 import pickle
 import pandas as pd
 import nltk
-nltk.data.path.append('nltk_data/stropwords/english')
+nltk.download()
 from nltk.corpus import stopwords
 from nltk.tokenize import punkt
 from nltk.corpus.reader import wordnet
