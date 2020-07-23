@@ -5,8 +5,11 @@ import pandas as pd
 import nltk
 nltk.download('stopwords')
 from nltk.corpus import stopwords
+nltk.download('punkt')
 from nltk.tokenize import punkt
+nltk.download('wordnet')
 from nltk.corpus.reader import wordnet
+nltk.download('WordNetLemmatizer')
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import spacy
