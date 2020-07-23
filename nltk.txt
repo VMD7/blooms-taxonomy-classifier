@@ -1,6 +1,8 @@
-wordnet
-pros_cons
-reuters
 corpus
 tokenize
 stem
+stopwords
+stopwords
+reader
+wordnet
+WordNetLemmatizer
