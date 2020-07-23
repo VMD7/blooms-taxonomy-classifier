@@ -1,3 +1,6 @@
 wordnet
 pros_cons
 reuters
+corpus
+tokenize
+stem
