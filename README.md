@@ -9,6 +9,7 @@ The Bloom's Taxonomy Question Classifier is a comprehensive web-based tool desig
 - **Customizable:** Adaptable to different educational contexts and customizable to fit specific teaching needs.
 - **Pluggable Architecture:** Integrates easily into existing educational platforms or systems, enhancing their functionality.
 - **End-to-End Deployment:** Accessible via a user-friendly web interface, ensuring ease of use for educators.
+- **Mobile App:** The Bloom's Taxonomy Question Classifier is also available as a mobile app for convenient access on-the-go.
 
 ## Getting Started
 To access the Bloom's Taxonomy Question Classifier, simply visit [website_url](website_url) and follow the on-screen instructions:
@@ -16,8 +17,12 @@ To access the Bloom's Taxonomy Question Classifier, simply visit [website_url](w
 - Click on the "Classify" button to receive the Bloom's Taxonomy category for your question.
 - Explore the categorized questions and utilize them in your educational materials or assessments.
 
+## Mobile App
+Download the mobile app version of the Bloom's Taxonomy Question Classifier from the following link:
+- [Download APK](apk_download_url)
+
 ## Usage
-[![Bloom's Taxonomy Question Classifier - Demo Video](video_thumbnail_url)](video_url)
+[![Bloom's Taxonomy Question Classifier - Demo Video](https://youtu.be/KqI7WOVIF8c?list=PLMb6dm0lYNdNX0ijJ1ALZ2y7oVENHsh_L&t=266)](https://www.youtube.com/watch?v=KqI7WOVIF8c&list=PLMb6dm0lYNdNX0ijJ1ALZ2y7oVENHsh_L&index=2)
 Watch the demo video above for a detailed explanation of the functionality and usage of the Bloom's Taxonomy Question Classifier.
 
 ## Contribution Guidelines
