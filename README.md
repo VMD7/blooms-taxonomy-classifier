@@ -19,7 +19,7 @@ To access the Bloom's Taxonomy Question Classifier, simply visit [Blooms Taxonom
 
 ## Mobile App
 Download the mobile app version of the Bloom's Taxonomy Question Classifier from the following link:
-- [Download APK]([apk_download_url](https://github.com/VMD7/blooms-taxonomy-classifier/blob/master/Android_App/app-release.apk))
+- [Download APK](https://github.com/VMD7/blooms-taxonomy-classifier/blob/master/Android_App/app-release.apk)
 
 ## Usage
 
