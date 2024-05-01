@@ -12,14 +12,14 @@ The Bloom's Taxonomy Question Classifier is a comprehensive web-based tool desig
 - **Mobile App:** The Bloom's Taxonomy Classifier is also available as a mobile app for convenient access on-the-go.
 
 ## Getting Started
-To access the Bloom's Taxonomy Question Classifier, simply visit [website_url](https://huggingface.co/spaces/vjdevane/blooms-taxonomy-detector) and follow the on-screen instructions:
+To access the Bloom's Taxonomy Question Classifier, simply visit [Blooms Taxonomy Classifier](https://huggingface.co/spaces/vjdevane/blooms-taxonomy-detector) and follow the on-screen instructions:
 - Input your question text.
 - Click on the "Classify" button to receive the Bloom's Taxonomy category for your question.
 - Explore the categorized questions and utilize them in your educational materials or assessments.
 
 ## Mobile App
 Download the mobile app version of the Bloom's Taxonomy Question Classifier from the following link:
-- [Download APK](apk_download_url)
+- [Download APK]([apk_download_url](https://github.com/VMD7/blooms-taxonomy-classifier/blob/master/Android_App/app-release.apk))
 
 ## Usage
 
