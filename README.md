@@ -22,8 +22,11 @@ Download the mobile app version of the Bloom's Taxonomy Question Classifier from
 - [Download APK](apk_download_url)
 
 ## Usage
-[![Bloom's Taxonomy Question Classifier - Demo Video](https://youtu.be/KqI7WOVIF8c?list=PLMb6dm0lYNdNX0ijJ1ALZ2y7oVENHsh_L&t=266)](https://www.youtube.com/watch?v=KqI7WOVIF8c&list=PLMb6dm0lYNdNX0ijJ1ALZ2y7oVENHsh_L&index=2)
-Watch the demo video above for a detailed explanation of the functionality and usage of the Bloom's Taxonomy Question Classifier.
+
+[![Bloom's Taxonomy Question Classifier - Demo Video](https://img.youtube.com/vi/KqI7WOVIF8c/0.jpg)](https://www.youtube.com/watch?v=KqI7WOVIF8c&list=PLMb6dm0lYNdNX0ijJ1ALZ2y7oVENHsh_L)
+
+Click the image above to watch the demo video for a detailed explanation of the functionality and usage of the Bloom's Taxonomy Question Classifier.
+
 
 ## Contribution Guidelines
 Contributions to the Bloom's Taxonomy Question Classifier are welcome! If you have ideas for improvements, new features, or bug fixes, please reach out to [email@example.com](mailto:email@example.com) for collaboration.
