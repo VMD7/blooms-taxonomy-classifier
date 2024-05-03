@@ -4,7 +4,7 @@
 The Bloom's Taxonomy Question Classifier is a comprehensive web-based tool designed to assist educators in categorizing questions based on cognitive complexity according to Bloom's Taxonomy. Whether you're designing assessments, creating instructional materials, or analyzing student performance, this tool provides a seamless solution to enhance teaching and learning experiences.
 
 Bloom's Taxonomy:
-[![Bloom's Taxonomy Levels](https://github.com/VMD7/blooms-taxonomy-classifier/blob/master/BloomsTax-Update.png)
+![Bloom's Taxonomy Levels](https://github.com/VMD7/blooms-taxonomy-classifier/blob/master/BloomsTax-Update.png)
 
 ## Features
 - **Automatic Categorization:** Utilizes advanced algorithms to automatically assign questions to six levels of Bloom's Taxonomy.
