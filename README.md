@@ -35,7 +35,7 @@ Click the image above to watch the demo video for a detailed explanation of the 
 Contributions to the Bloom's Taxonomy Question Classifier are welcome! If you have ideas for improvements, new features, or bug fixes, please reach out to [Vijay Devane](mailto:vijaydevane007@gmail.com) for collaboration.
 
 ## License
-This project is licensed under the Apache License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact
 For any inquiries or support regarding the Bloom's Taxonomy Question Classifier, please contact [Vijay Devane](mailto:vijaydevane007@gmail.com).
